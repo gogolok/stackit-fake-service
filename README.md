@@ -1,8 +1,8 @@
-# Paketo Go Buildpack Sample Application for Korifi
+# Fake STACKIT service API
 
 ```
-git clone https://github.com/gogolok/korifi-go-app.git
-cd korifi-go-app
+git clone https://github.com/gogolok/stackit-fake-service.git
+cd stackit-fake-service
 
-cf push go-app
+go run main.go
 ```
